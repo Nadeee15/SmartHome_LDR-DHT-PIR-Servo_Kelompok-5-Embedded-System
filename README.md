@@ -1,0 +1,1 @@
+# SmartHome_LDR-DHT-PIR-Servo_Kelompok-5-Embedded-System
